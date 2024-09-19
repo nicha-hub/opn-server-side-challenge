@@ -118,11 +118,11 @@ There are 3 folders.
     }
     
 2. DATABASE: stores the MySQL code for the second question.
-    - check the code at file "TABLES.sql"
+    - check the code at file <mark>"TABLES.sql"</mark>
 
 3. CODING: stores the Node.js code for the third question.
-    - check the code at file "cart.js"
-    - To test, run file "cart_test.js" with the command.
+    - check the code at file <mark>"cart.js"</mark>
+    - To test, run file <mark>"cart_test.js"</mark> with the command.
       ```console
       node cart_test.js
       ```
