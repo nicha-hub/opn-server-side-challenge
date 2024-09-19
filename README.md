@@ -1,7 +1,7 @@
 # opn-server-side-challenge
 This repository was created to store my code challenge for the OPN Examination.
 There are 3 folders.
-1. RESTFUL-API: stores the Node.js project for the first question.
+1. <mark>RESTFUL-API</mark>: stores the Node.js project for the first question.
    
     - Go to RESTFUL-API folder
       ```console
@@ -117,12 +117,12 @@ There are 3 folders.
         "error_message": "Your current password is wrong"
     }
     
-2. DATABASE: stores the MySQL code for the second question.
-    - check the code at file <mark>"TABLES.sql"</mark>
+2. <mark>DATABASE</mark>: stores the MySQL code for the second question.
+    - check the code at file "TABLES.sql"
 
-3. CODING: stores the Node.js code for the third question.
-    - check the code at file <mark>"cart.js"</mark>
-    - To test, run file <mark>"cart_test.js"</mark> with the command.
+3. <mark>CODING</mark>: stores the Node.js code for the third question.
+    - check the code at file "cart.js"
+    - To test, run file "cart_test.js" with the command.
       ```console
       node cart_test.js
       ```
